@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "SwmLnWgdwc+ykObXeEd3JAmt3sjVdjI9y5puZS5qFYoBDlUOKf8ftDHCiIHGtzF3GW2jhuf4hilCerG8a07yKQ==",
+  "dgSpecHash": "xTkafggFz0H/nLWPkyDg714QgxZIeC6fOCQA5faGPK79+915CbEn/oABnSeXvTikfihn4TI2N4u7tduKvn5PNQ==",
   "success": true,
   "projectFilePath": "D:\\W-Working\\job\\integrify\\dotnet\\fs13-fs\\backend\\backend\\backend.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Winston Lycan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
+    "C:\\Users\\Winston Lycan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Winston Lycan\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Winston Lycan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Winston Lycan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Winston Lycan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Winston Lycan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
